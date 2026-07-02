@@ -6,7 +6,8 @@ O 048 Coworking é um espaço de trabalho compartilhado localizado dentro do Oka
 ## O que oferecemos
 - Estações de trabalho fixas e rotativas
 - Escritórios privativos para 3 ou 4 pessoas
-- Salas de reunião (Sala Ponte: 4 pessoas | Sala Conexão: 6 pessoas)
+- Salas de reunião (Sala Ponte: até 4 pessoas | Sala Conexão: até 6 pessoas)
+- Cabines de call para reuniões online
 - Domicílio fiscal e escritório virtual
 - Acesso por reconhecimento facial
 - Clientes com plano ativo têm acesso 24 horas por dia, 7 dias por semana
@@ -30,3 +31,74 @@ Profissionais autônomos, empreendedores e pequenas empresas localizadas em Flor
 Rodovia Francisco Magno Vieira, 4397 — Torre Sol, Sala 202
 Bairro Campeche, CEP 88065-000, Florianópolis/SC
 Oka Floripa Shopping
+
+## Preços (valores em R$, referência julho/2026)
+
+### Uso avulso (estação rotativa)
+- Turno: R$ 68
+- Dia: R$ 118
+- Pack 4 turnos: R$ 232
+
+### Plano Essencial (estação rotativa, 3 turnos/semana)
+- Flex (mínimo 6 meses): R$ 268
+- Mensal: R$ 458
+- Trimestral: R$ 428
+- Semestral: R$ 408
+- Anual: R$ 368
+
+### Plano Dinâmico (estação rotativa, 5 turnos/semana)
+- Semanal: R$ 200
+- Mensal: R$ 788
+- Trimestral: R$ 728
+- Semestral: R$ 688
+- Anual: R$ 628
+
+### Plano Integral (estação fixa, acesso ilimitado, estação fixa)
+- Semanal: R$ 300
+- Mensal: R$ 1.198
+- Trimestral: R$ 1.108
+- Semestral: R$ 1.058
+- Anual: R$ 958
+
+### Plano Personalizado 20 (estação rotativa, 4 turnos/semana)
+- Mensal: R$ 630,40
+- Trimestral: R$ 582,40
+- Semestral: R$ 550,40
+- Anual: R$ 502,40
+
+### Plano Personalizado 30 (estação rotativa, 6 turnos/semana)
+- Mensal: R$ 945,60
+- Trimestral: R$ 873,60
+- Semestral: R$ 825,60
+- Anual: R$ 753,60
+
+### Escritórios privativos (mensalidade)
+- 3 pessoas sem janela (3P-A): Trimestral R$ 3.880 | Semestral R$ 3.580 | Anual R$ 2.980
+- 3 pessoas com janela (3P-B): Trimestral R$ 4.680 | Semestral R$ 4.380 | Anual R$ 3.780
+- 4 pessoas (4P): Trimestral R$ 5.880 | Semestral R$ 5.480 | Anual R$ 4.680
+
+### Salas de reunião
+- Sala Ponte (até 4 pessoas): Hora R$ 58 | Turno R$ 258 | Dia R$ 478
+- Sala Conexão (até 6 pessoas): Hora R$ 88 | Turno R$ 388 | Dia R$ 718
+
+### Domicílio fiscal
+- R$ 118/mês (contrato anual)
+
+### Outros
+- 048 Talks (externo): R$ 20
+- Taxa de Ocorrência Operacional (esquecimento de equipamentos ligados): R$ 30/turno
+
+## Regras de funcionamento
+
+- Reservas, check-in e check-out obrigatórios a cada visita para controle de vagas e planejamento de uso
+- Cuide do espaço: limpe o que sujar, desligue o que ligar, guarde o que usar
+- Esquecimento de equipamentos ligados (ar-condicionado, luzes, eletrodomésticos) gera taxa de R$ 30 por turno
+- Entrada de convidados permitida apenas em horário comercial (segunda a sexta, 8h às 18h), mediante autorização prévia da administração
+- Salas de reunião devem ser reservadas previamente; disponíveis também aos fins de semana
+- Consumo de produtos pagos deve ser informado imediatamente (pessoalmente ou via WhatsApp)
+- Reuniões online frequentes devem ser feitas nas cabines de call; reveze o uso com outros coworkers
+- Aos fins de semana podem ocorrer eventos ou limpeza — consultar previamente
+- Dois banheiros unissex compartilhados; manter limpos e organizados
+- Não descartar papel no vaso sanitário; usar a lixeira disponível
+- O espaço não possui microondas por política de ambiente (evitar odores)
+- Mantenha sua estação de trabalho limpa e organizada ao final de cada uso
