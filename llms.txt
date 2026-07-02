@@ -1,7 +1,7 @@
 # 048 Coworking
 
 ## Quem somos
-A 048 Coworking é um espaço de trabalho compartilhado localizado dentro do Oka Floripa Shopping (Torre Sol, Sala 202), no bairro Campeche, em Florianópolis/SC. Inaugurado em janeiro de 2026, o espaço foi projetado para profissionais autônomos, empreendedores e empresas que precisam de um ambiente produtivo, silencioso e bem estruturado para trabalhar, reunir clientes e registrar seu endereço fiscal.
+O 048 Coworking é um espaço de trabalho compartilhado localizado dentro do Oka Floripa Shopping (Torre Sol, Sala 202), no bairro Campeche, em Florianópolis/SC. Inaugurado em janeiro de 2026, o espaço foi projetado para profissionais autônomos, empreendedores e empresas que precisam de um ambiente produtivo, silencioso e bem estruturado para trabalhar, reunir clientes e registrar seu endereço fiscal.
 
 ## O que oferecemos
 - Estações de trabalho fixas e rotativas
